@@ -7,7 +7,7 @@ Integrated neural rendering framework for underwater 3D scene reconstruction com
 [**📑 Paper**]() | [**💻 Code**](https://github.com/lzx1162131988/VM-SHGS) 
 
 <p align="center">
-<img src="./static/images/teaser.png" alt="VM-SHGS Overview" style="width: 100%; height: auto;">
+<img src="./img/process.png" alt="VM-SHGS Overview" style="width: 100%; height: auto;">
 </p>
 
 ## ⭐ Method Overview
