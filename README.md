@@ -1,4 +1,4 @@
-# <h1 align="center"> <img src="./static/images/favicon.png" width="32" height="32" style="vertical-align: middle;"> VM-SHGS: Underwater 3D Scene Reconstruction with Bundle Adjustment</h1>
+# <h1 align="center"> <img src="./static/images/favicon.png" width="32" height="32" style="vertical-align: middle;"> VM-SHGS: Underwater 3D Scene Reconstruction with VM-SHGS</h1>
 
 <h5 align="center">
 
