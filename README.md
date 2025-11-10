@@ -315,9 +315,7 @@ Our work builds upon excellent open-source projects:
 Special thanks to the open-source community for advancing neural rendering research!
 
 ## 📄 License
-
-
-
+This dataset and code are released under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 ## 📚 Citation
 
 
